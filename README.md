@@ -1,8 +1,8 @@
-Written by Amir Zabet
+Written by Amir Zabet<br>
 Updated on 7/26/2013
 
-A set of Matlab codes for reading Raman spectra, fitting them to Lorentzian peaks,
-and plotting maps of peak parameters (height, width, intensity).
+A set of Matlab codes for reading Raman spectra, fitting the peaks to Lorentzian,
+and creating spatial maps of peak parameters (height, width, intensity).
 
 The inputs are txt files containing Raman wavelength and intensity in two columns.
 The file names contain the coordinates at which the spectra are taken.
